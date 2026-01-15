@@ -8,4 +8,7 @@ pour ajouter phpunit au projet
 remiseFidelite, le test ne fonctionne pas en revance donc vous aurez 
 ERRORS!
 Tests: 12, Assertions: 16, Errors: 1, PHPUnit Warnings: 1, Warnings: 1.
+
+
+
 Sonarqube non fonctionnel pour le coverage
